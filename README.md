@@ -14,29 +14,29 @@ Numbers are double
 
 **Simple function without parameters**
 
-...
+```
 
 double test_linkage()
 {
-return 1;
+    return 1;
 }
-...
+```
 
 **Simple function with double parameters**
 
-...
+```
 
 double test_args(double num0, double num1)
 {
-return num0+num1;
+    return num0+num1;
 }
-...
+```
 
 **Simple function with strings parameter**
 
-...
+```
 char* test_string(char* num0)
 {
-return num0;
+    return num0;
 }
-...
+```
