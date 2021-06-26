@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Source.cpp
+  Generating Code...
+     Creating library C:\Users\klys\Documents\GMS-community\gms-vstudio-dll-boilerplate\dx_injectorx\Debug\dx_injectorx.lib and object C:\Users\klys\Documents\GMS-community\gms-vstudio-dll-boilerplate\dx_injectorx\Debug\dx_injectorx.exp
+  dx_injectorx.vcxproj -> C:\Users\klys\Documents\GMS-community\gms-vstudio-dll-boilerplate\dx_injectorx\Debug\dx_injectorx.dll
